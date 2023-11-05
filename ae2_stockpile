@@ -2,8 +2,8 @@ Aluminium Plate, 64
 Aluminium Ingot, 128
 Steel Plate, 64
 Steel Ingot, 128
-Energetic Alloy Ingot, 128
-Energetic Alloy Plate, 128
+gregtech.material.energetic_alloy Ingot, 128
+gregtech.material.energetic_alloy Plate, 128
 Red Alloy Ingot, 256
 Copper Foil, 256
 Bronze Ingot, 64

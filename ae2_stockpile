@@ -1,17 +1,22 @@
-Aluminium Plate, 64
-Aluminium Ingot, 128
-Steel Plate, 64
-Steel Ingot, 128
+Aluminium Plate, 128
+Aluminium Ingot, 256
+Steel Plate, 256
+Steel Ingot, 512
 gregtech.material.energetic_alloy Ingot, 128
 gregtech.material.energetic_alloy Plate, 128
 Red Alloy Ingot, 256
-Copper Foil, 256
-Bronze Ingot, 64
-Bronze Plate, 64
+Copper Foil, 1024
+Bronze Ingot, 128
+Bronze Plate, 128
 Vibrant Alloy Energy Conduit, 64
 ME Conduit, 64
 Item Conduit, 64
 ME Interface, 8
 ME Import Bus, 8
 ME Export Bus, 8
+ME Storage Bus, 8
 1x Copper Cable, 128
+Me Fluid Export Bus, 8
+Me Fluid Import Bus, 8
+Me Fluid Storage Bus, 8
+gregtech.material.stainless_steel Ingot 128

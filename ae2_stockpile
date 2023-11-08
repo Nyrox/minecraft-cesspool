@@ -7,6 +7,10 @@ gregtech.material.energetic_alloy Ingot, 128
 gregtech.material.energetic_alloy Plate, 128
 Electrum Ingot, 128
 Electrum Plate, 64
+Fine Electrum Wire, 128
+1x Electrum Wire, 64
+2x Electrum Wire, 32
+4x Electrum Wire, 32
 Cupronickel Ingot, 128
 gregtech.material.vibrant_alloy Ingot, 64
 gregtech.material.vibrant_alloy Plate, 64
@@ -37,10 +41,11 @@ Integrated Processor, 32
 Workstation, 8
 1x Gold Wire, 64
 1x Silver Wire, 64
+2x Silver Wire, 32
+4x Silver Wire, 32
+Fine Silver Wire, 128
 1x Tin Wire, 64
 Fine Copper Wire, 128
-Fine Electrum Wire, 128
-Fine Silver Wire, 128
 Fine Tin Wire, 128
 Double Steel Plate, 64
 Steel Gear, 64

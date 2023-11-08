@@ -4,6 +4,9 @@ Steel Plate, 256
 Steel Ingot, 512
 gregtech.material.energetic_alloy Ingot, 128
 gregtech.material.energetic_alloy Plate, 128
+Electrum ingot, 128
+Electrum PLate, 64
+Cupronickel Ingot 128,
 Vibrant Alloy Ingot, 64
 Vibrant Alloy Plate, 64
 Red Alloy Ingot, 256
@@ -27,7 +30,7 @@ Wrought Iron Ingot, 512
 Wrought Iron Plate, 128
 Logic Processor, 4
 Formation Core, 4
-Processor Assembly, 2
+Processor Assembly, 8
 Microprocessor, 64
 Integrated Processor, 32
 Workstation, 8

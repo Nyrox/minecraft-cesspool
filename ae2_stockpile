@@ -7,8 +7,8 @@ gregtech.material.energetic_alloy Plate, 128
 gregtech.material.electrum Ingot, 128
 gregtech.material.electrum Plate, 64
 Cupronickel Ingot, 128
-Vibrant Alloy Ingot, 64
-Vibrant Alloy Plate, 64
+gregtech.material.vibrant_alloy Ingot, 64
+gregtech.material.vibrant_alloy Plate, 64
 Red Alloy Ingot, 256
 Copper Foil, 1024
 Bronze Ingot, 256

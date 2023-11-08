@@ -1,12 +1,12 @@
-Aluminium Plate, 128
-Aluminium Ingot, 256
+Aluminium Plate, 256
+Aluminium Ingot, 512
 Steel Plate, 256
 Steel Ingot, 512
 gregtech.material.energetic_alloy Ingot, 128
 gregtech.material.energetic_alloy Plate, 128
 Red Alloy Ingot, 256
 Copper Foil, 1024
-Bronze Ingot, 128
+Bronze Ingot, 256
 Bronze Plate, 128
 Vibrant Alloy Energy Conduit, 64
 ME Conduit, 64
@@ -20,6 +20,7 @@ ME Fluid Export Bus, 8
 ME Fluid Import Bus, 8
 ME Fluid Storage Bus, 8
 Stainless Steel Ingot, 128
+Stainless Steel Plate, 64
 Wrought Iron Ingot, 512
 Wrought Iron Plate, 128
 Logic Processor, 4
@@ -28,3 +29,13 @@ Processor Assembly, 2
 Microprocessor, 64
 Integrated Processor, 32
 Workstation, 8
+1x Gold Wire, 64
+1x Silver Wire, 64
+1x Tin Wire, 64
+Fine Copper Wire, 128
+Fine Electrum Wire, 128
+Fine Silver Wire, 128
+Fine Tin Wire, 128
+Double Steel Plate, 64
+Steel Gear, 64
+Manganese Phosphide Ingot, 32

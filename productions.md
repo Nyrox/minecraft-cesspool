@@ -9,6 +9,18 @@
     - Water (low)
   #### Used:
     - PTFE
+    - Nitric Acid
+
+### Hydrogen
+  #### Produced:
+  #### Used:
+    - Nitric Acid
+
+### Nitrogen:
+  ### Produced:
+    - Distilled Liquid Air (lots)
+  ### Used:
+    - Nitric Acid
 
 ### HydroFluoric Acid
   #### Produced:
@@ -19,6 +31,12 @@
 ### Hydrochloric Acid
   #### Produced:
     - PTFE (Shit loads)
+
+### Nitric Acid
+  #### Produced:
+    - Platinum Setup (lots)
+  #### Used:
+    - Platinum Setup
 
 ### Chlorine:
   #### Produced:

@@ -33,8 +33,13 @@ Stainless Steel Ingot, 512
 Stainless Steel Plate, 64
 Wrought Iron Ingot, 512
 Wrought Iron Plate, 128
-Logic Processor, 4
-Formation Core, 4
+Logic Processor, 16
+Engineering Processor, 8
+Formation Core, 16
+SMD Transistor, 128
+SMD Resistor, 128
+SMD Capacitor, 128
+Annihilation Core, 16
 Processor Assembly, 8
 Microprocessor, 64
 Integrated Processor, 32

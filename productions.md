@@ -13,8 +13,10 @@
 
 ### Hydrogen
   #### Produced:
+    - From Methane (next to Epoxy) (FUCKTONS)
   #### Used:
     - Nitric Acid
+    - Oil Refinement
 
 ### Nitrogen:
   ### Produced:
@@ -31,6 +33,8 @@
 ### Hydrochloric Acid
   #### Produced:
     - PTFE (Shit loads)
+  #### Consumed:
+    - Epoxy
 
 ### Nitric Acid
   #### Produced:
@@ -44,7 +48,11 @@
     - Ghast Tears (medium)
   #### Used:
     - Hypochlorous Acid (Rocket Fuel)
+    - Epoxy
 
+### Epoxy
+  #### Produced:
+    - Dedicated Setup
 
 ### PTFE
   #### Produced:
